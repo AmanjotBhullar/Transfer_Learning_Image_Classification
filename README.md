@@ -1,4 +1,4 @@
-# Transfer Learning with Inception-v3 forHistopathological Image Classification
+# Transfer Learning with Inception-v3 for Histopathological Image Classification
 
 The classify.py, convert-model.py, label.py, predict-request.py, retrain.py files were taken from the TensorFLow transfer learning api -- https://www.tensorflow.org/hub/tutorials/image_retraining.
 
